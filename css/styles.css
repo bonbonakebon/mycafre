@@ -1,0 +1,30 @@
+h1{
+  font-size: 24px;
+  padding-bottom:8px;
+  border-bottom:20px solid #ddd;
+  background: yellow;
+  align-self: center;
+  justify-content: space-between;
+  box-shadow: 15px;
+  border-left:12px black;
+  font-size:normal;
+  text-align: center;
+  width:300px;
+  margin: 0 auto;
+}
+
+p{
+  font-size:30px;
+  color:blue;
+  text-align:center;
+}
+h1:hover{
+  color: green;
+  background:purple;
+  cursor: pointer;
+
+}
+
+body{
+  background: lightcyan;
+}
